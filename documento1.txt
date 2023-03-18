@@ -1,1 +1,2 @@
 Este es mi documento de prueba para githu
+Ahora modifico el archivo para observar comportamiento.
